@@ -1,0 +1,53 @@
+html{
+  text-align: center;
+  background: url(https://s-media-cache-ak0.pinimg.com/736x/ac/81/ae/ac81ae92395e93036367c6be1c5ec289.jpg) /*no-repeat center center fixed*/;
+  background size: cover;*/
+  background-color: #dadfe1;
+  background-repeat: repeat;
+  background-position: cover;
+  font-family: "Helvetica";
+}
+
+h1{
+  font-size: 150px;
+  color: #000;
+  margin-right: 150px;
+  margin-top: 110px; 
+}
+
+.logo img{
+  height: 175px;
+  width: 175px;
+  border-style: solid;
+  border-width: 8px; 
+  border-color: #000;
+}
+
+h2{
+  font-size: 40px;
+  color: #f62459;
+}
+
+.copy{
+  margin-left: 25%;
+  margin-bottom: 75px;
+  margin-top: -70px;
+}
+
+  hr{
+    width: 320px;
+    border-bottom: 1.4px solid;
+    color: #f62459;
+ }
+
+ .links{
+   font-size: 15px;
+   font-weight: bold;
+   color: #f62459;
+   margin-bottom: 30px;
+   margin-left: 30%;
+   line-height: 150%;
+ } 
+
+
+ 
