@@ -41,12 +41,15 @@ h2{
  }
 
  .links{
-   font-size: 15px;
+   font-size: 10px;
    font-weight: bold;
    color: #f62459;
    margin-bottom: 30px;
-   margin-left: 30%;
-   line-height: 150%;
+   margin-top: -55px;
+   margin-right: -23%;
+ /*  margin-left: 50%;*/
+   line-height: 220%;
+   font-family: "Courier New";
  } 
 
 
