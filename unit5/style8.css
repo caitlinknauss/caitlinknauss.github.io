@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=Abel|PT+Sans+Narrow|Slabo+27px);
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+/*	background-color: #fsf4c0;*/
+	background: url(http://s9.favim.com/610/131006/coffee-grunge-hipster-map-Favim.com-976901.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center; 
+    background-size: 100%;
+}
+
+header{
+	display: inline;
+	list-style-type: none;
+}
+
+h1{
+	font-family: Lora; sans-serif;
+	font-size: 56px;
+	color: #F5F4C0;
+	text-align: block;
+	margin-left: 15%;
+	margin-top: 50px;
+}
+
+nav ul{
+	list-style-type: none;
+/*	text-align: right;*/
+	margin-top: 55px;
+	margin-bottom: 0px;
+	margin-left: 67%;
+	margin-right: 10%;
+	font-family: PT Sans Narrow; serif;
+	font-size: 28px;
+	letter-spacing: .06em;
+	line-height: 2.4em;
+	font-color: white;
+}
+
+nav li{
+/*	display: inline-block;
+	padding-right: 65px;
+	padding-left: 65px;*/
+}
+
+footer ul{
+	list-style-type: none;
+	text-align: left;
+	padding-top: 2px;
+	margin-bottom: 0px;
+	font-family: 'Crimson Text', serif;
+	font-size: 16px;
+}
+
+footer li{
+	display: inline-block;
+	text-align: left;
+}
+
+#image{
+	width: 100%;
+
+}
