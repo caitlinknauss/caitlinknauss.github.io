@@ -1,0 +1,62 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display|Arimo|Gudea|PT+Serif|Reenie+Beanie|Shadows+Into+Light|Libre+Baskerville|Walter+Turncoat|Droid+Serif|Covered+By+Your+Grace|Amatic+SC|Julius+Sans+One);
+
+html{
+  text-align: center;
+  background: url(https://s-media-cache-ak0.pinimg.com/736x/ac/81/ae/ac81ae92395e93036367c6be1c5ec289.jpg);
+  background size: cover;
+  background-color: #dadfe1;
+  background-repeat: repeat;
+  background-position: cover;
+/*  font-family: "Helvetica";*/
+}
+
+h1{
+  font-size: 140px;
+  color: #000;
+  img-align: center;
+}
+
+.logo img{
+  height: 120px;
+  width: 120px;
+  border-style: solid;
+  border-width: 4px; 
+  border-color: #000;
+}
+
+h2{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 60px;
+  color: #f62459;
+}
+
+h3{
+font-family: 'Arimo', sans-serif;
+font-size: 20px;
+}
+
+.copy{
+/*  margin-left: 25%;*/
+  margin-bottom: 75px;
+  margin-top: -70px;
+}
+
+  hr{
+    width: 320px;
+    border-bottom: 1.4px solid;
+    color: #f62459;
+ }
+
+ .links{
+   font-size: 10px;
+   font-weight: bold;
+   color: #f62459;
+   margin-bottom: 30px;
+   margin-top: -55px;
+/*   margin-right: -23%;*/
+   line-height: 220%;
+   font-family: "Courier New";
+ } 
+
+
+ 
