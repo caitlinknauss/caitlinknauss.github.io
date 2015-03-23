@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=Abel|PT+Sans+Narrow|Slabo+27px);
+
+*{
+  margin: 0;
+  padding: 0;
+  border-size: box-border;
+}
+
+.clearfix:after{
+  visibility: hidden;
+  display: 0;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+header{
+	background-color: black;
+ 	font-family: 'Lora', serif;
+  	color: white;
+  	margin: 0px;
+  	padding: 0px
+}
+
+nav{
+	background-color: white;
+ 	font-family: 'PT Sans Narrow', sans-serif;
+  	color: black;
+/*  margin: 0px;
+  	padding: 0px*/
+}
+
+footer{
+	background-color: white;
+ 	font-family: 'PT Sans Narrow', sans-serif;
+  	color: black;
+}
+
+h1{
+	text-align: center;
+  	letter-spacing: .2em;
+  	font-size: 2.4em; 
+  	margin: 1em 1em 1em 6em;
+  }
+
+ul{
+
+}
+
+li{
+  display: inline;
+  padding: 10px;
+
+}
+
+a:hover{
+  color: green;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+
+}
+
+#main{}
+
+#hero{}
+
+#logo{}
+

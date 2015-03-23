@@ -1,0 +1,122 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=Abel|PT+Sans+Narrow|Slabo+27px);
+
+*{
+  margin: 0;
+  padding: 0:
+}
+
+.clearfix:after{
+  visibility: hidden;
+  display: 0;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+header{
+  margin: 0px; 
+  padding: 10px 10px 10px 10px;
+  background-color: black;
+  font-family: 'Lora';
+/*  color: white;*/
+}
+
+nav{
+  display: inline;
+  float: right;
+  background: white;
+  padding-top: 5px;
+  padding-right: 8%;
+}
+
+li{
+  display: inline;
+  padding: 10px;
+/*  font-family: 'PT Sans Narrow' sans-serif;*/
+}
+
+a:hover{
+  color: green;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+/*  font-family: 'PT Sans Narrow' sans-serif;*/
+}
+
+h1{
+  font-family: 'Lora';
+  text-align: center;
+  letter-spacing: .2em;
+  font-size: 2.4em; 
+  margin: 1em 1em 1em 6em;
+  padding: .5em;
+  color: white;
+}
+
+h2{
+  font-size: 1.3em;
+  line-height: 2.2em;
+}
+
+p{
+  font-size: .9em;
+  line-height: 1.2em;
+}
+
+li{
+  float: left;
+  display: inline;
+  padding-left: 40px;
+}
+
+hr{
+  border: .08em solid black;
+  width: 90%; 
+  margin: auto;
+}
+
+#intro{
+  background-color: black;
+}
+
+#nav{
+  font-family: 'PT Sans Narrow' sans-serif;
+}
+
+/*#main{
+/*  margin: 10px;*/
+/*  padding: 10px;
+  background-color: white;*/
+
+/*}
+
+#hero{
+  margin-left: auto;
+  margin-right: auto;
+}*/
+
+/*#hero{
+  background-image: url(http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2012/03/16/46759192-CNBC-slideshow-coffeehouses-Four-Barrel.jpg);
+  padding: 200px;
+  position: relative;
+  width: 80%;
+  height: relative;
+  background-repeat: no-repeat;
+  margin-left: 15%;
+  margin-right: -15%;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}*/
+
+#last{
+  background: white;
+}
+
+#footer{
+  font-family:'PT Sans Narrow' sans-serif;
+  display: inline-block;
+}
