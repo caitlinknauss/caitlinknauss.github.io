@@ -53,12 +53,12 @@ header{
 }
 
 #main{
-  font color: white;
   padding-bottom: 8em;
 }
 
 #step1{
  font-family: 'Droid Serif', serif;
+ color: white;
  text-align: left;
  padding-left: 15em;
  padding-bottom: 5em;
@@ -67,6 +67,7 @@ header{
 
 #step2{
   font-family: 'Droid Serif', serif;
+  color: white;
   text-align: left;
   display: box;
   margin: 0em 15em 0em 15em;
