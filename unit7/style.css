@@ -8,7 +8,7 @@ body{
   background-attachment: fixed;
 }
 
-main{
+#main{
   color: white;
   padding-bottom: 8em;
 }
@@ -17,7 +17,7 @@ h1{
   font-size: 2.5em;
   letter-spacing: .02em;
   padding: 1.4em 1.4em;
-/*  margin: 1em 1em 1em 1em;*/
+/*  margin: 1em;*/
   margin-left: 8em;
   margin-right: 8em;
   background-color: #F5AB35;
@@ -43,7 +43,7 @@ a{
 }
 
 a:hover{
-  background-color: grey;
+  background-color: #AB18C3;
 }
 
 a:visited{
@@ -56,6 +56,10 @@ header{
   color: black;
 }
 
+#main{
+  color: white;
+  padding-bottom: 8em;
+}
 
 #step1{
  font-family: 'Droid Serif', serif;
@@ -63,7 +67,6 @@ header{
  padding-left: 15em;
  padding-bottom: 5em;
 /* line-height: 2em;*/
-  
 }
 
 #step2{
