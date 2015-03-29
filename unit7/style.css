@@ -49,11 +49,11 @@ a:visited{
 header{
   font-family: 'Raleway', serif;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 #main{
-  color: white;
+  font color: white;
   padding-bottom: 8em;
 }
 
@@ -75,7 +75,3 @@ header{
   line-height: 2em;
 }
 
-#main{
-  color: white;
-  padding-bottom: 8em;
-}
