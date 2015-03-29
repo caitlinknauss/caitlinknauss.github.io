@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif|Slabo+27px|Raleway|Oxygen);
+
+body{
+  background-image: url("https://download.unsplash.com/photo-1418226970361-9f1f7227d638");
+  width: 100%;
+  image-opacity: .07;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+main{
+  color: white;
+  padding-bottom: 8em;
+}
+
+h1{
+  font-size: 2.5em;
+  letter-spacing: .02em;
+  padding: 1.4em 1.4em;
+/*  margin: 1em 1em 1em 1em;*/
+  margin-left: 8em;
+  margin-right: 8em;
+  background-color: #F5AB35;
+  opacity: .6;
+  line-height: 1.5em;
+}
+
+
+hr{
+  border-top: 3px double #F5AB35;
+  width: 80%;
+}
+
+ul {
+  list-style-type: square;
+  line-height: 1.75em;
+  color: #F7CA18;
+}
+
+a{
+   text-decoration: none;
+   color: #FED876;
+}
+
+a:hover{
+  background-color: grey;
+}
+
+a:visited{
+  color: #FED876;
+}
+
+header{
+  font-family: 'Raleway', serif;
+  text-align: center;
+  color: black;
+}
+
+
+#step1{
+ font-family: 'Droid Serif', serif;
+ text-align: left;
+ padding-left: 15em;
+ padding-bottom: 5em;
+/* line-height: 2em;*/
+  
+}
+
+#step2{
+  font-family: 'Droid Serif', serif;
+  text-align: left;
+  display: box;
+  margin: 0em 15em 0em 15em;
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+  line-height: 2em;
+}
